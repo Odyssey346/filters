@@ -1,0 +1,2 @@
+# filters
+uBlock Origin Filters
